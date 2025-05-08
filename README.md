@@ -5,5 +5,7 @@ Using **Hough Transformation** together with customized city rule design modelin
 We have uploaded different city map demos for users to test. The output is a dynamic graph with the simulation of bus movement trajectory. Here is the effect of Chicago.
 ![Bus Movement](https://github.com/user-attachments/assets/170d6037-920c-49ce-96ff-0f4d4b849fb7)
 ## 2. Parking Behavior Simulation
-
-Using **Kaplan-Meier Method** to draw the survival functions of different states of parking behaviors (idle=0, occupied=1)
+Using **Kaplan-Meier Method** to draw the survival functions of different states of parking behaviors (idle=0, occupied=1). Using **Kernel Density Estimation** to model idle and occupied duration. The model is trained by the hostorical parking data in The Chinese University of Hong Kong, Shenzhen.
+Here is the pulse diagrams of 20 parking spaces between 0(idle) and 1(occupled).
+![Emulation of 20 parking spots in one day](https://github.com/user-attachments/assets/0094e404-77cc-44cf-914c-7f53c924071d)
+## 3. Deployment and Cross-city Validation
