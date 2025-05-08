@@ -20,3 +20,4 @@ This section demonstrates BusScan's generalizability through implementation in M
    6. Quantify the detection latency, which is related to detection accuracy.
 The codes are displayed in [https://github.com/oscakywalker/BusScan-A-Simulation-Platform-for-Evaluating-Bus-Based-On-street-Parking-Detection-Strategies/blob/main/Deployment/final.py].
 Here is the final output.
+![Final version](https://github.com/user-attachments/assets/aee882fc-74ab-46bd-9457-5c5e9b90cb16)
