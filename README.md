@@ -17,4 +17,6 @@ This section demonstrates BusScan's generalizability through implementation in M
    3. Design the city boundary, region boundary and the average speed.
    4. Using Kaplan-Meier Estimator to learn the survival function, using the Kernal Density Estimation to generate the duration of each state.
    5. Deploy parking spaces into the city.
-   6. Record the 
+   6. Quantify the detection latency, which is related to detection accuracy.
+The codes are displayed in [https://github.com/oscakywalker/BusScan-A-Simulation-Platform-for-Evaluating-Bus-Based-On-street-Parking-Detection-Strategies/blob/main/Deployment/final.py].
+Here is the final output.
